@@ -1,0 +1,27 @@
+1 - .NET
+    É um framework (pacote de códigos prontos )criado pela Microsoft, que permite 
+a comunicação entre várias linguagens, desde que estas tenham uma infraestrutura 
+comum (CLI). Ex.: C++, C#, F#, VB.
+
+2 - Namespace
+    É usado para organizar as classes. Para usar uma classe de outro namespace,
+deve-se colocar um using no começo do código.
+
+3 - Classe
+    Possui, dentro dela, campos, propiedades, métodos e eventos, os quais são 
+denominados membros.
+    Quando uma classe é instanciada (ex: Animal animal1 = new Animal();), essa
+instância passa a ser chamada de objeto (animal1).
+
+4 - Interface
+    Classe base ou classe molde/modelo.
+    Uma classe que implementa uma interface, deve implementar todos os seus membros.
+
+5 - Enum
+    Como se fosse uma lista, é um conjunto de constantes, cujo posição inicial é
+0 e vai iterando de 1 em 1.
+
+
+OBS: Novo Template
+    Com a nova versão 6.0 do .net, o template mudou drasticamente, com os "using"
+agora escondidos, além dos namespace Program e Main, também escondidos.

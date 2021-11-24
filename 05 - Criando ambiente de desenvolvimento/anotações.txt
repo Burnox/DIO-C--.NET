@@ -1,0 +1,41 @@
+## Diferenças .NET vs .NET Core vs .Net Framework
+
+1 - .NET Framework
+   2002 - web - windows
+
+2 - .NET Core
+   2016 - web - windows - linux - macOS
+
+3 - .NET Standard
+   Contrato entre as ferramentas core e framework.
+   Bibliotecas de classe base.
+  
+4 - .Net 5
+   2020 - plataforma unificada para tudo
+
+## Framework e runtime
+
+1 - Framework
+   caixa de componentes pronto para uso.
+
+2 - Runtime
+   Compila o bloco de código escrito para o sistema binário, para que o
+computador possa entender e executar o código.
+
+## CLI - Interface de Linha de Comando
+
+* Processa os comandos que serão enviados para um programa de computador
+na forma de linhas de texto.
+
+COMANDOS:
+*dotnet --version : verificar a versão instalada
+*dotnet --help : lista todos os possíveis comandos
+*dotnet --info : traz todas as informações do .net
+*dotnet -- new : criar projeto
+*dotnet -- new --list : filtrar as opções de projeto
+*dotnet -- new --list --tag web: lista opções com web
+*dotnet -- new console -o myApp: cria um projeto de console chamado "myApp"
+*cd myApp: acessa a pasta criada do projeto  
+*dotnet run: executa o projeto criado, desde que esteja na pasta do projeto
+*dotnet build: compila o projeto
+*dotnet restore: resgata as dependência "perdidas"

@@ -1,0 +1,22 @@
+Visual Studio Community - versão free
+
+Obter mais pacotes - Ferramentas > Obter ferramentas e funcionalidades
+
+Integrar com github - ao iniciar o VS, pode-se clonar um repositório do github.
+Se o projeto não está no git, existe um menu "Git", onde é possível criar um 
+repositório para o projeto.
+
+Testes - cria-se um arquivo de teste, onde o método a ser testado deverá ser
+configurado no padrão AAA( Arrange/ Act / Assert). Para criar um teste, deve-se clicar
+com o botão direito do mouse no método desejado e, depois, em criar testes de unidade.
+
+Arrange - onde devemos organizar e instanciar a classe a ser testada, além de definir
+o valor dos dados a serem testados.
+Act - onde a classe será invocada.
+Assert - verifica se a ação do método se comporta como esperado.
+
+Comandos básicos
+F5 - Debbuging
+F9 - Põe/remove um breakpoint na linha
+F10 - Avança o depurador pulando a função.
+F11 - Avança a execução linha por linha, sem pular nada.

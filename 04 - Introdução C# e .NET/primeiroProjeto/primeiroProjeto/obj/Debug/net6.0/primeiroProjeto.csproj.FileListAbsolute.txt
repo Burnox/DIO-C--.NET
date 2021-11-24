@@ -1,0 +1,15 @@
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.exe
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.deps.json
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.runtimeconfig.json
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.dll
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\bin\Debug\net6.0\ref\primeiroProjeto.dll
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.pdb
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.csproj.AssemblyReference.cache
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.AssemblyInfoInputs.cache
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.AssemblyInfo.cs
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.csproj.CoreCompileInputs.cache
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.dll
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\ref\primeiroProjeto.dll
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.pdb
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\04 - Introdução C# e .NET\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.genruntimeconfig.cache
