@@ -1,0 +1,49 @@
+1 - Conceito
+Uma estrutura organizada de dados armazenadas na memória.
+
+2 - Tipos
+2.1 - Vetores e Matrizes
+Também chamados de arrays, são estruturas auxiliares simples.
+Onde ficam armazenadas muitas variáveis do mesmo tipo de algoritmo.
+São estruturas onde o tamanho é fixo, ou seja, não varia após ser declarado.
+Obs: Os vetores são unidimensionais, já as matrizes podem ter duas ou mais
+dimensões.
+
+2.2 - Registros
+Similar a um dicionário em python. É uma estrutura com um formato especializado
+em armazenar informações (campos) de diferentes tipos em uma mesma memória.
+Obs: Para chamar um dado de um registro -> registro.campo -> cadastro.nome
+
+2.3 - Listas
+Similares aos arrays, entretanto, possuem tamanho ajustável.
+    2.3.1 - Ligada
+        Listas onde o próximo item a ser introduzido será sempre há direita.
+    2.3.2 - Duplamente Ligada
+        Listas onde o próximo item pode ser introduzido em qualquer lado.
+
+2.4 - Pilhas
+Estrutura que serve como coleção de elementos, permitindo o acesso somente 
+a um item armazenado, ou seja, enquanto este item estiver sendo visualizado
+não se tem acesso aos demais.
+As pilhas são de dois tipo: FIFO (primeiro que entra, primeiro que sai) ou LIFO
+(último que entra, primeiro que sai).
+
+2.5 - Filas
+São obrigatoriamente do tipo FIFO, ou seja, o primeiro objeto inserido na fila,
+será o primeiro a ser removido. Os itens serão, graficamente, inseridos a direita.
+
+2.6 - Árvore
+Estrutura hierárquica. Onde existe um elemento principal, chamado de raiz ou base,
+e seus subordinados ou derivativos, chamados de nós ou folhas.
+OBS: Em uma árvore, o item central passa a ser a raiz, com os itens ao meio de cada
+lado sendo os nós, assim sucessivamente.
+
+2.7 - Tabela hash
+Estrutura de dispersão ou espalhamento. Associa chaves de pesquisa a valores.
+É similar a um array, entretando pode-se associar o valor do dado a uma posição fixa
+não sendo obrigatório seguir uma sequência.
+
+2.8 - Grafos
+Estruturas onde se pode associar um objeto (nó) com outro.
+As relações são representadas por arestas.
+
