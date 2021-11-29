@@ -1,0 +1,56 @@
+1 - O QUE É A PROGRAMAÇÃO ORIENTADA À OBJETOS (POO)?
+    Corresponde a uma técnica de programação para um fim específico.
+    Na POO, cria-se uma classe (molde), onde as caracteristicas são determinadas,
+    e os objetos, que são criados a partir dessa classe.
+
+2 - PILARES DA POO
+  2.1 - Abstração: representação em código do objeto real, criando uma identidade,
+        que deve ser única; suas propriedades ou características; e seus métodos,
+        ou suas ações.
+  2.2 - Encapsulamento: Proteção da classe e define limites para a alteração e
+        acesso a determinadas propriedades. Ocultando seu comportamento e expondo
+        somente o necessário.
+	2.2.1 - public: pode ser usado por qualquer um.
+	2.2.2 - protected: somente a propria classe e suas filhas tem acesso.
+	2.2.3 - private: só pode ser acessado pela própria classe.
+  2.3 - Herança: permite uma classe herdar atributos/métodos/comportamentos
+        de outra classe. Também, serve para agrupar objetos que são do mesmo tipo,
+        porém com caracteristicas diferentes.
+  2.4 - Polimorfismo: sobrescreve métodos da classe pai, podendo implementar o
+        seu próprio método, tendo sua propria forma ou customização.
+
+3 - PASSOS CRIAÇÃO ESTRUTURA
+  3.1 - "dotnet new sln --name algumnome" - cria uma solution
+  3.2 - "mkdir algumnome" - cria uma pasta
+  3.3 - "cd nomepasta" - muda o local onde estamos
+  3.4 - "dotnet new console" - cria um novo projeto do tipo console
+  3.5 - "cd .." - volta um nível no diretório
+  3.6 - "dotnet add sln nomepasta/nomeprojeto.csproj" - adiciona o projeto criado
+        a solution criada anteriormente
+  3.7 - "code ." - abre o diretório no vscode
+
+4 - CLASSES ABSTRATAS
+    É exclusivamente um modelo a ser herdado, não pode ser instanciada. Porém, é
+    permitido implementar métodos ou deix-los a cargo de quem herdar.
+    Um método que serve exclusivamente para ser sobrescrito.
+
+5 - CLASSES SELADAS
+    Impede que outras classes derivem dela, ou seja, é o ponto final de uma herança.
+    Também existem métodos e propriedades seladas.
+    Não existe polimorfismo, sem sobrescrita.
+
+6 - CLASSE OBJECT
+    Chamada de System.Object, é a mãe de todas as classes na hierarquia do .NET.
+    Todas as classes derivam, direta ou indiretamente dessa classe. Ela tem por
+    objetivo prover serviços de baixo nível para suas classes filhas.
+
+7 - INTERFACES
+    Semelhante a uma classe abstrata, não pode ser instanciada.
+    Uma classe pode implementar mais de uma interface, como um tipo de herança
+    múltipla.
+
+8 - MANIPULANDO ARQUIVOS COM C#
+  * File - criar/ler/manipular arquivos
+  * Directory - operações com diretórios
+  * Path - organizar os caminhos de maneira lógica
+  * OBS - não precisa intanciar

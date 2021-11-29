@@ -1,0 +1,15 @@
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\bin\Debug\net6.0\ref\ExemploPOO.dll
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\06 - POO com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
