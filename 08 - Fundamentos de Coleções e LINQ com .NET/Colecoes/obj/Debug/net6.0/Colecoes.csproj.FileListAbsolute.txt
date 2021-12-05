@@ -1,0 +1,15 @@
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.exe
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.dll
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.dll
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+D:\Programação\DIO\DECOLA TECH #2\DIO-desafio-github\08 - Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache

@@ -1,0 +1,28 @@
+1 - Construtores
+	Método especial usado para passar valores padrões para a classe no momento
+	em que for instancia-la. Contem o mesmo nome do seu tipo classe.
+	O construtor não possui retorno. É sempre definido quando não declaramos
+	nenhum para sua classe. Uma classe pode ter mais de um construtor.
+
+2 - Getters e Setters
+	Atribuir valor a um objeto de uma forma controlada.
+	Podem ser criados como métodos, spearadamente, ou usados em uma 
+	propriedade, onde se atribuir um valor se usa o método set e se apenas 
+	chamar a propriedade, se utiliza o get.
+
+3 - Modificadores
+	3.1 - Readonly
+	Somente leitura, bloqueia alterações nos campos de sua classe, que não 
+	sejam em duas situações, no momento da inicialização ou pelo próprio 
+	construtor.
+	3.2 - Constante
+	Valor que pode ser atribuido uma única vez, durante sua inicialização.
+
+4 - Delegates
+	Usado como callback, é uma forma de passar um método como parâmetro.
+	Aceita qualquer método que contenha os mesmos parametros.
+
+5 - Eventos
+	É um mecanismo de comunicação entre objetos.
+	Existe um PUBLISHER, responsável por reazilar o evento, e o SUBSCRIBER,
+	que é o inscrito.

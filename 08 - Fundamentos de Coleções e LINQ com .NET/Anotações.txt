@@ -1,0 +1,53 @@
+01 - Arrays
+	Estrutura de dados que armazena valores do mesmo tipo e com um tamanho
+	fixo.
+	Seus dados são acessados através de sua posição, índice.
+	Podem ser multidimensionais, chamados de matrizes, apresentam linhas
+	e colunas.
+
+02 - Manipulando Arrays
+	Ordenação - não ordenados ou ordenados.
+
+03 - Classe array
+	Classe pertencente ao name system, com métodos que auxiliam no trabalho
+	com arrays.
+	* Sort() - ordena o array.
+	* Copy() - copia um array.
+	* Exists() - verifica se um valor está presente no array.
+	* TrueForAll() - verifica se todos os valores atendem a uma condição.
+	* Find() - retorna a primeira ocorrência de um valor.
+	* FindIndex() - retorna a posição de um determinado valor.
+	* Resize() - redimensiona o tamanho de um array já criado.
+	* ConvertAll() - modifica o tipo dos valores de uma array. int > string.
+04 - Listas
+	List<> - Faz parte da coleção genérica, similar a um array, entretanto, não
+		 possui a necessidade de se especificar o tamanho.
+	namelist.Count - conta o número de itens na lista.
+	namelist.Add()- adiciona um item a lista.
+	namelist.Remove() - remove um item da lista.
+	namelist.AddRange() - adiciona uma outra coleção a lista, desde que sejam do
+			      mesmo tipo.
+
+05 - Coleção específica
+	Queue - Fila do tipo FIFO.
+		Enqueue - adiciona elemento a fila.
+		Dequeue - remove e retorna o objeto do começo da fila.
+		Peek - retorna o objeto do começo da fila, mas não o remove.
+		Count - conta a quantidades de objetos.
+
+	Stack - Pilha do tipo LIFO.
+		Push - insere o objeto no topo da pilha.
+		Pop - remove o objeto do topo da pilha.
+		Peek - obtem o valor do objeto sem remove-lo.
+		Count - quantidade de elementos.
+
+06 - Dicionário
+	Tipo de coleção, onde é possível armazenar uma chave e um valor para esta 
+	chave. A cahve é armazenada em hash e não pode ser repetida. 
+
+07 - LINQ
+	Language-Integrated Query - uma sintaxe de consulta padronizada para coleções
+	de objetos.
+		
+
+
